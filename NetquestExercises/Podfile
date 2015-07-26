@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target ’NetquestExercises’ do
+  pod 'KSToastView', '0.4.3'
+  pod 'SDWebImage', '~>3.7'
+end
